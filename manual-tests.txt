@@ -59,6 +59,14 @@ Use `./build.sh` to build CiCo and `./run.sh` to run it if using the command lin
 2. Enter 00000000 into the field and click Update.
 
 ## Expected results
-* Should display "Developer" for the user name.
+* Should display "Developer" for the username.
+
+# Module 6: Color Scheme
+1. Build and run CiCo.
+2. Enter 00000000 into the field and click Update.
+
+## Expected results
+* After 1. the page should have a black background and white text.
+* After 2. the page should have a gray background, white text for "Developer" and light gray text for check status.
 
 
